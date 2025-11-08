@@ -4,8 +4,10 @@
 ---
 
 ### 🚀 About Me
-🌱 I’m currentlyimproving my **MERN stack** skills and learning **Data Structures & Algorithms (Java)** .  
+🌱 I’m currently improving my **MERN stack** skills and learning **Data Structures & Algorithms (Java)** .  
+
 💻 I love building interactive, full-stack web applications.  
+
 💬 Ask me about **Node.js, Express.js, MongoDB, React**, or anything web development related.  
 
 ---
