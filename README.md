@@ -1,11 +1,13 @@
-<h1 align="center">👋 Hi, I'm Thejas Bk</h1>
+<h1 align="center">Hi, I'm Thejas </h1>
 <h3 align="center">Full-Stack Web Developer from India</h3>
 
 ---
 
 ### 🚀 About Me
 🌱 I’m currently improving my **MERN Stack** skills and learning **Data Structures & Algorithms (Java)**.  
+
 💻 I enjoy building **interactive, full-stack web applications** with clean UI and efficient backend logic.  
+
 💬 Ask me about **Node.js, Express.js, MongoDB, React**, or anything related to **web development**.  
 
 ---
@@ -44,5 +46,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=Thejas-Bk&label=Profile%20Views&color=0e75b6&style=flat) 
+---
+
+![Hits](https://hits.sh/github.com/Thejas-Bk.svg?style=for-the-badge&label=Profile%20Views&color=blue)
 
