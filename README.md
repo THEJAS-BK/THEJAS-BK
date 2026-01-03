@@ -30,7 +30,10 @@
 ---
 ## 📈 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thejas-bk&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=thejas-bk&theme=dark&hide_border=true" />
+</p>
+
 ---
 ### 🌐 Connect with Me
 <p align="center">
