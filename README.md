@@ -29,13 +29,6 @@
 
 ---
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/thejas-bk?template=classic&base.header=0&base.activity=1&base.community=0&base.repositories=0&base.metadata=0" />
-</p>
-
----
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/thejas-bk" target="_blank">
