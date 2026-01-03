@@ -30,10 +30,11 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=THEJAS-BK&show_icons=true&theme=tokyonight)
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thejas-bk&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thejas-bk&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thejas-bk&theme=tokyonight)
+---
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://github.com/thejas-bk" target="_blank">
@@ -46,5 +47,5 @@
 
 ---
 
-![Hits](https://hits.sh/github.com/Thejas-Bk.svg?style=for-the-badge&label=Profile%20Views&color=blue)
+![Hits](https://hits.sh/github.com/thejas-bk.svg?style=for-the-badge&label=Profile%20Views&color=blue)
 
