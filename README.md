@@ -28,12 +28,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-## 📊 GitHub Stats
+## 📈 Contribution Streak
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thejas-bk&theme=tokyonight)
-
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thejas-bk&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thejas-bk&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=thejas-bk&theme=dark&hide_border=true)
 ---
 ### 🌐 Connect with Me
 <p align="center">
