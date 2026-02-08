@@ -17,7 +17,8 @@
 
 ---
 
----
+
+![GitHub Streak](https://streak-stats.demolab.com?user=thejas-bk&theme=dark)
 
 ![Hits](https://hits.sh/github.com/thejas-bk.svg?style=for-the-badge&label=Profile%20Views&color=blue)
 
