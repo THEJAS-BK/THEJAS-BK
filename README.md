@@ -1,8 +1,6 @@
 <h1 align="start">Hi, I'm Thejas </h1>
 <h3 align="start">Full-Stack Web Developer from India</h3>
 
-##  Tech Stack
-
 ###  Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
