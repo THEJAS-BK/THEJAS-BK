@@ -1,4 +1,4 @@
-<h1 align="start">Hi, I'm Thejas </h1>
+<h1 align="start">Hi, I'm Thejas BK</h1>
 <h3 align="start">Full-Stack Web Developer from India</h3>
 
 ###  Languages
