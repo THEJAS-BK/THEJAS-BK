@@ -29,7 +29,7 @@
 </p>
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=thejas-bk&show_icons=true&theme=dark)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thejas-bk&theme=aura-dark" alt="GitHub Streak" /></a>
 
 ![Hits](https://hits.sh/github.com/thejas-bk.svg?style=for-the-badge&label=Profile%20Views&color=blue)
 
