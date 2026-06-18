@@ -29,7 +29,7 @@
 </p>
 
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=THEJAS-BK&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=thejas-bk&show_icons=true&theme=dark)
 
 ![Hits](https://hits.sh/github.com/thejas-bk.svg?style=for-the-badge&label=Profile%20Views&color=blue)
 
