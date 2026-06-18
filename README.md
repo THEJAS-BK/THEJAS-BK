@@ -29,7 +29,7 @@
 </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thejas-bk&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=THEJAS-BK)](https://git.io/streak-stats)
 
 ![Hits](https://hits.sh/github.com/thejas-bk.svg?style=for-the-badge&label=Profile%20Views&color=blue)
 
