@@ -31,5 +31,5 @@
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=thejas-bk&theme=aura-dark" alt="GitHub Streak" /></a>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=THEJAS-BK&theme=midnight-purple&exclude_days=Sun%2CMon)](https://git.io/streak-stats)
+![Hits](https://hits.sh/github.com/thejas-bk.svg?style=for-the-badge&label=Profile%20Views&color=blue)
 
